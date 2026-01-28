@@ -1,0 +1,6 @@
+add_executable(learn_file,learn_file.cpp)
+add_executable(Tsk1_1_12,Tsk1_1_12.c)
+add_executable(Tsk2_1_12,Tsk2_1_12.c)
+add_executable(Tsk3_1_12,Tsk3_1_12.c)
+add_executable(Tsk4_1_12,Tsk4_1_12.c)
+add_executable(Tsk5_1_12,Tsk5_1_12.c)

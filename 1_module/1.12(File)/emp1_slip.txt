@@ -1,0 +1,7 @@
+Salary Slip for Employee Nandan Raj (ID: 1)
+-----------------------------------------
+Basic Salary: 20000.00
+Dearness Allowance (DA): 4000.00
+House Rent Allowance (HRA): 2000.00
+Net Salary: 26000.00
+-----------------------------------------

@@ -1,0 +1,7 @@
+Salary Slip for Employee Ashish Kumar (ID: 3)
+-----------------------------------------
+Basic Salary: 21000.00
+Dearness Allowance (DA): 4200.00
+House Rent Allowance (HRA): 2100.00
+Net Salary: 27300.00
+-----------------------------------------

@@ -1,0 +1,7 @@
+add_executable(Tsk1_1_11,Tsk1_1_11.c)
+add_executable(Tsk2_1_11,Tsk2_1_11.c)
+add_executable(Tsk3_1_11,Tsk3_1_11.c)
+add_executable(Tsk4_1_11,Tsk4_1_11.c)
+add_executable(Tsk5_1_11,Tsk5_1_11.c)
+add_executable(Tsk6_1_11,Tsk6_1_11.c)
+add_executable(Tsk7_1_11,Tsk7_1_11.c)

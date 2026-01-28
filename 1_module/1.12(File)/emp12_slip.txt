@@ -1,0 +1,7 @@
+Salary Slip for Employee sdfghjvbn dfgh fghj (ID: 12)
+-----------------------------------------
+Basic Salary: 3456.00
+Dearness Allowance (DA): 691.20
+House Rent Allowance (HRA): 345.60
+Net Salary: 4492.80
+-----------------------------------------

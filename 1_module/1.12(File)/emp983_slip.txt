@@ -1,0 +1,7 @@
+Salary Slip for Employee u (ID: 983)
+-----------------------------------------
+Basic Salary: 872.00
+Dearness Allowance (DA): 174.40
+House Rent Allowance (HRA): 87.20
+Net Salary: 1133.60
+-----------------------------------------

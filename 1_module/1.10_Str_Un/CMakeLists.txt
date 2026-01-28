@@ -1,0 +1,1 @@
+add_executable(Tsk1_1_10,Tsk1_1_10.c)

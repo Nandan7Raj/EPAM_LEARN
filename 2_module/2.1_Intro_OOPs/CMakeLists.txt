@@ -1,0 +1,5 @@
+add_executable(learn2 learn2.cpp)
+add_executable(Tsk1_2_1 Tsk1_2_1.cpp)
+add_executable(Tsk2_2_1 Tsk2_2_1.cpp)
+add_executable(Tsk3_2_1 Tsk3_2_1.cpp)
+add_executable(Tsk4_2_1 Tsk4_2_1.cpp)

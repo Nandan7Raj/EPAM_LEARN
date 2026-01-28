@@ -1,0 +1,7 @@
+add_subdirectory(1.1_Var_Dec)
+add_subdirectory(1.2_Pf_Sf_ForSpfr)
+add_subdirectory(1.7_Func)
+add_subdirectory(1.8_Recursion)
+add_subdirectory(1.9_Array)
+add_subdirectory(1.10_Str_Un)
+add_subdirectory(1.11_Ptr)
