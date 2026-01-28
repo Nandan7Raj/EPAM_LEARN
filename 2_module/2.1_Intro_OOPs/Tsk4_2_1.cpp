@@ -50,6 +50,5 @@ int main() {
     a.printAddress();
     b.printAddress();
 
-
     return 0;
 }
