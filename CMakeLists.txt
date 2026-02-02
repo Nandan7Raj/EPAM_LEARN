@@ -15,6 +15,7 @@ set(CMAKE_CXX_EXTENSIONS OFF)   # pure ISO C++
 
 add_subdirectory(1_module)
 add_subdirectory(2_module)
+add_subdirectory(practice)
 
 # Only if you actually have a root main.cpp / main.c
 # add_executable(Modules_EPAM main.cpp
