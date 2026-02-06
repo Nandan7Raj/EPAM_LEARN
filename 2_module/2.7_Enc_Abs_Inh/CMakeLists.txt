@@ -1,0 +1,5 @@
+add_executable(Tsk1_2_7.cpp Tsk1_2_7)
+add_executable(Tsk2_2_7.cpp Tsk2_2_7)
+add_executable(Tsk3_2_7.cpp Tsk3_2_7)
+add_executable(Tsk4_2_7.cpp Tsk4_2_7)
+add_executable(Tsk5_2_7.cpp Tsk5_2_7)
