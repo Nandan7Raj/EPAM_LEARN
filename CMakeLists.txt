@@ -17,6 +17,7 @@ add_subdirectory(1_module)
 add_subdirectory(2_module)
 add_subdirectory(practice)
 add_subdirectory(3_module)
+add_subdirectory(4_module)
 
 # Only if you actually have a root main.cpp / main.c
 # add_executable(Modules_EPAM main.cpp

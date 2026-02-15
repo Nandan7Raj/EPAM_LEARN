@@ -1,16 +1,18 @@
 //
-// Created by NandanRaj on 06-02-2026.
+// Created by NandanRaj on 12-02-2026.
 //
+
 #include <iostream>
 #include <vector>
 
 class Payment {
-    public:
+public:
     virtual void processPayment(double amount)=0;
+    virtual ~Payment(){}
 
 };
 class CreditCardPayment:public Payment {
-    public:
+public:
     void processPayment(double amount) override{
         std::cout<<"Processed the credit card payment of Rs: "<<amount<<std::endl;
     }
