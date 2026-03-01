@@ -1,1 +1,1 @@
-add_executable(Tsk1_2_1 Tsk1_2_2.cpp)
+add_executable(Tsk1_2_2 Tsk1_2_2.cpp)
