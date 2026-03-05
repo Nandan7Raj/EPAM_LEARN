@@ -1,0 +1,8 @@
+add_subdirectory(practice)
+add_executable(Tsk1_5_2 Tsk1_5_2.cpp)
+add_executable(Tsk2_5_2 Tsk2_5_2.cpp)
+add_executable(Tsk3_5_2 Tsk3_5_2.cpp)
+add_executable(Tsk4_5_2 Tsk4_5_2.cpp)
+add_executable(Tsk5_5_2 Tsk5_5_2.cpp)
+add_executable(Tsk6_5_2 Tsk6_5_2.cpp)
+add_executable(Tsk7_5_2 Tsk7_5_2.cpp)

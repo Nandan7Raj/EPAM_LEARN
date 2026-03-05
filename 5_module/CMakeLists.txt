@@ -1,1 +1,2 @@
 add_subdirectory(5.1_Variadic_temp)
+add_subdirectory(5.2_NameSpace_Template)
