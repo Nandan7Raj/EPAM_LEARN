@@ -1,0 +1,1 @@
+add_executable(Tsk7_6_4M Tsk7_6_4M.cpp Tsk7_6_4.cpp)

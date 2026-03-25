@@ -1,0 +1,1 @@
+add_executable(Tsk10_6_4M Tsk10_6_4.cpp Tsk10_6_4M.cpp)
