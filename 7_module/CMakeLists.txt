@@ -1,0 +1,2 @@
+add_subdirectory(7.1_casting_RTTI)
+add_subdirectory(7.2_smrt_ptrNdeltr)
