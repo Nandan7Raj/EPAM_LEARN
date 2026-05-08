@@ -1,0 +1,17 @@
+add_executable(Tsk1_9_3 Tsk1_9_3.cpp)
+add_executable(Tsk2_9_3 Tsk2_9_3.cpp)
+add_executable(Tsk3_9_3 Tsk3_9_3.cpp)
+add_executable(Tsk4_9_3 Tsk4_9_3.cpp)
+add_executable(Tsk5_9_3 Tsk5_9_3.cpp)
+add_executable(Tsk6_9_3 Tsk6_9_3.cpp)
+add_executable(Tsk7_9_3 Tsk7_9_3.cpp)
+add_executable(Tsk8_9_3 Tsk8_9_3.cpp)
+add_executable(Tsk9_9_3 Tsk9_9_3.cpp)
+add_executable(Tsk10_9_3 Tsk10_9_3.cpp)
+add_executable(Tsk11_9_3 Tsk11_9_3.cpp)
+add_executable(Tsk12_9_3 Tsk12_9_3.cpp)
+add_executable(Tsk13_9_3 Tsk13_9_3.cpp)
+add_executable(Tsk14_9_3 Tsk14_9_3.cpp)
+add_executable(Tsk15_9_3 Tsk15_9_3.cpp)
+
+

@@ -21,5 +21,7 @@ add_subdirectory(4_module)
 add_subdirectory(5_module)
 add_subdirectory(6_module)
 add_subdirectory(7_module)
-
+add_subdirectory(8_module)
+add_subdirectory(9_module)
+add_subdirectory(11_module)
 # Only if you actually have a root main.cpp / main.c

@@ -1,0 +1,1 @@
+add_executable(Tsk1_9_2 Tsk1_9_2.cpp)
